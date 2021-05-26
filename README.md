@@ -1,12 +1,12 @@
-- Update 2021.05
-- Support `Big Sur 11.3.1`
+- Update 2021.05.26
+- Support `Big Sur 11.4`
 - OpenCore Version `0.6.9`
 
-![IMG_7215](./img/IMG_7215.jpg)
+![](./img/Xnip2021-05-13_10-42-56.jpg)
 
 ![](./img/Xnip2021-05-13_10-32-45.jpg)
 
-![](./img/Xnip2021-05-13_10-42-56.jpg)
+![](./img/IMG_7215.jpg)
 
 # ryzen-3900x_MEG-UNIFY-X570_Radeon-5700xt
 
