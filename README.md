@@ -15,7 +15,7 @@
 - CPU: AMD R9 Ryzen 3900X
 - Motherboard: (MSI)MEG X570 UNIFY
 - GPU: ASUS ROG STRIX Radeon RX5700XT O8G GAMING
-- Wireless Card: PCI-E BCM94360CD
+- Wireless Card: PCI-E BCM94360CD (FV-T919)
 - Other:
   - RAM: Kingston Fury DDR4 3200 16Gx4
   - SSD: SAMSUNG 970 EVO Plus 500GB(M.2/Nvme)
