@@ -1,4 +1,4 @@
-- Update 2021.11
+- Updated at 2021.11
 - Support `Big Sur 11.6.1`
 - OpenCore Version `0.7.5`
 
