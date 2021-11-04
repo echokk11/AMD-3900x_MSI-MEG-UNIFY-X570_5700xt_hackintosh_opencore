@@ -1,8 +1,6 @@
 - Updated at 2021.11
-- Support `Monterey 12.0.1`
+- Support `Big Sur 11.6.1`
 - OpenCore Version `0.7.5`
-
-> If you want use Big Sur click here [BigSur](./README-BigSur.md)
 
 ![](./img/Xnip2021-11-03_16-50-11.jpg)
 
@@ -25,7 +23,7 @@
 
 Based on [barrrrt/AMD-3900x_MEG-MSI-Unify-X570_AMD-X5700XT](https://github.com/barrrrt/AMD-3900x_MEG-MSI-Unify-X570_AMD-X5700XT)
 
-And [awesometic/hackintosh-gigabyte-x570-aorus-elite](https://github.com/awesometic/hackintosh-gigabyte-x570-aorus-elite)
+
 
 > I use PCI-E Wireless Card, so I disabled the internel WIFI Intel AX200
 >
@@ -36,3 +34,7 @@ And [awesometic/hackintosh-gigabyte-x570-aorus-elite](https://github.com/awesome
 ![](./img/Xnip2021-05-13_10-42-29.jpg)
 
 **Attention**: Don't forget regenerate your Seria Number. Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+
+
+
+**Problem**: Could not upgrade to Monterey, I am still trying hard.
