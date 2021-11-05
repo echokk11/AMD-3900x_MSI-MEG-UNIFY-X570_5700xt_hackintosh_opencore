@@ -4,7 +4,9 @@
 
 > If you want use Big Sur click here [BigSur](./README-BigSur.md)
 
-![](./img/Xnip2021-11-04_23-16-28.jpg)
+![](./img/Xnip2021-11-05_10-08-09.jpg)
+
+![](./img/Xnip2021-11-05_10-05-55.jpg)
 
 ![](./img/Xnip2021-11-04_23-17-01.jpg)
 
@@ -36,3 +38,6 @@ And [awesometic/hackintosh-gigabyte-x570-aorus-elite](https://github.com/awesome
 ![](./img/Xnip2021-05-13_10-42-29.jpg)
 
 **Attention**: Don't forget regenerate your Seria Number. Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+
+If you have mmomery issue, follow this [Fixing MacPro7,1 Memory Errors](https://dortania.github.io/OpenCore-Post-Install/universal/memory.html#fixing-macpro7-1-memory-errors)
+
