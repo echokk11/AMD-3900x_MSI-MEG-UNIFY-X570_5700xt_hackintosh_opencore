@@ -39,5 +39,5 @@ And [awesometic/hackintosh-gigabyte-x570-aorus-elite](https://github.com/awesome
 
 **Attention**: Don't forget regenerate your Seria Number. Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 
-If you have mmomery issue, follow this [Fixing MacPro7,1 Memory Errors](https://dortania.github.io/OpenCore-Post-Install/universal/memory.html#fixing-macpro7-1-memory-errors)
+If you have memory issue, follow this [Fixing MacPro7,1 Memory Errors](https://dortania.github.io/OpenCore-Post-Install/universal/memory.html#fixing-macpro7-1-memory-errors)
 
