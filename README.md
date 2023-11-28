@@ -1,5 +1,7 @@
 - in 2023.11, I change the GPU to `AMD Radeon RX 6650XT`, and use the internal intel `AX200`, can run Sonoma successful except bluetooth in `MacOS 14.1.1`. I got 2 GPU another is `Nvidia 3080Ti`, so i make it disabled with ACPI `SSDT-GPU-DISABLE.aml`. Spoof 6650XT to 6600XT use `SSDT-RX6650XT-SPOOF.aml`, check the detail info in `EFI-Sonoma` folder in this repository
 
+![](./img/Xnip2023-11-28_10-39-14.jpg)
+
 - Updated at 2021.11
 - Support `Monterey 12.0.1`
 - OpenCore Version `0.7.5`
