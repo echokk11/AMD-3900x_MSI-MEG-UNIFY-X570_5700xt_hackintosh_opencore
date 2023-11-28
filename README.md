@@ -1,3 +1,5 @@
+- in 2023.11, I change the GPU to `AMD Radeon RX 6650XT`, and use the internal intel `AX200`, can run Sonoma successful except bluetooth in `MacOS 14.1.1`
+
 - Updated at 2021.11
 - Support `Monterey 12.0.1`
 - OpenCore Version `0.7.5`
